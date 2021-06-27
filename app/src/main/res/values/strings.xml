@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ex_7</string>
+    <string name="please_fill_in_your_name">Please fill in your name:</string>
+    <string name="please_edit_order">Please Edit Order:</string>
+    <string name="how_many_pickles_do_you_want_between_0_to_10">How many pickles do you want? (between 0 to 10):</string>
+    <string name="would_you_like_hummus_in_your_sandwich">would you like hummus in your sandwich?:</string>
+    <string name="do_you_have_any_specifications">Do you have any specifications?</string>
+    <string name="please_delete_my_order">please delete my Order</string>
+    <string name="please_save_my_order">please save my order</string>
+    <string name="would_you_like_tahini_in_your_sandwich">would you like tahini in your sandwich?</string>
+    <string name="preparation_in_progress">Preparation In Progress!</string>
+    <string name="order_delicious_sandwich">order delicious sandwich</string>
+    <string name="please_enter_your_name_her">Please enter your name her</string>
+    <string name="end_order">end_order</string>
+    <string name="your_sandwich_is_ready">Your sandwich Is Ready!</string>
+</resources>
